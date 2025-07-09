@@ -19,4 +19,6 @@ A lightweight image encryption and decryption tool built using Python. This proj
 - **Python 3**
 - **PIL (Pillow)** – Python Imaging Library for image manipulation
 
-
+**NOTE**
+ You can use the attached image(**i.e.robot.jpg**) or any other image that you have.
+ Enter the image's path in the terminal, to see the encrypted image
